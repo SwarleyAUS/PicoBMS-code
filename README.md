@@ -7,3 +7,5 @@ Functions:
 - CAN communication with VESC (not implemented)
 
 Developed to leverage https://github.com/KevinOConnor/can2040
+
+*** THIS CODEBASE IS UNFINISHED ***
